@@ -1,0 +1,47 @@
+header{
+    background-color: rgb(52, 48, 58);
+    margin: 0;        
+}
+ol {
+    list-style-type: none;
+    
+    float: right;
+    background-color: rgb(52, 48, 58);
+    font-size: large;
+    margin-right: 48px;
+    margin-top: 25px;
+    }
+    
+    li {
+    float: right;
+    }
+    
+    li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    }
+    
+    li a:hover:not(.active) {
+    background-color: #111;
+    }
+body{
+    margin: 0;
+    background-image: url(aboutus.webp) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+    
+}
+
+.aboutuscontent{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: xx-large;
+    margin: 0;
+}
+
+
